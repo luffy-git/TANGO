@@ -1,0 +1,83 @@
+[
+    {
+        "video_id": "102128-00_13_23-00_13_33",
+        "video_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102128-00_13_23-00_13_33",
+        "audio_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102128-00_13_23-00_13_33",
+        "motion_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102128-00_13_23-00_13_33",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "105343-00_11_40-00_11_47",
+        "video_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/105343-00_11_40-00_11_47",
+        "audio_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/105343-00_11_40-00_11_47",
+        "motion_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/105343-00_11_40-00_11_47",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 210
+    },
+    {
+        "video_id": "103104-00_04_01-00_04_11",
+        "video_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/103104-00_04_01-00_04_11",
+        "audio_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/103104-00_04_01-00_04_11",
+        "motion_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/103104-00_04_01-00_04_11",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "102325-00_14_01-00_14_10",
+        "video_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102325-00_14_01-00_14_10",
+        "audio_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102325-00_14_01-00_14_10",
+        "motion_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102325-00_14_01-00_14_10",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 270
+    },
+    {
+        "video_id": "101652-00_12_31-00_12_41",
+        "video_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/101652-00_12_31-00_12_41",
+        "audio_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/101652-00_12_31-00_12_41",
+        "motion_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/101652-00_12_31-00_12_41",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "103104-00_03_51-00_04_01",
+        "video_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/103104-00_03_51-00_04_01",
+        "audio_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/103104-00_03_51-00_04_01",
+        "motion_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/103104-00_03_51-00_04_01",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "102328-00_14_53-00_15_00",
+        "video_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102328-00_14_53-00_15_00",
+        "audio_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102328-00_14_53-00_15_00",
+        "motion_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102328-00_14_53-00_15_00",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 210
+    },
+    {
+        "video_id": "101523-00_10_57-00_11_07",
+        "video_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/101523-00_10_57-00_11_07",
+        "audio_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/101523-00_10_57-00_11_07",
+        "motion_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/101523-00_10_57-00_11_07",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "102328-00_14_33-00_14_43",
+        "video_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102328-00_14_33-00_14_43",
+        "audio_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102328-00_14_33-00_14_43",
+        "motion_path": "/content/oliver/oliver/Trump_vs._Truth_-_Last_Week_Tonight_with_John_Oliver_HBO-xecEV4dSAXE.webm/test/102328-00_14_33-00_14_43",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    }
+]

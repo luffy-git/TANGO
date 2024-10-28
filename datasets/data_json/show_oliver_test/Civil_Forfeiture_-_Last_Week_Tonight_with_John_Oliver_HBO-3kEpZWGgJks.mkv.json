@@ -1,0 +1,65 @@
+[
+    {
+        "video_id": "215290-00_13_40-00_13_49",
+        "video_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215290-00_13_40-00_13_49",
+        "audio_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215290-00_13_40-00_13_49",
+        "motion_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215290-00_13_40-00_13_49",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 270
+    },
+    {
+        "video_id": "215285-00_10_24-00_10_27",
+        "video_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215285-00_10_24-00_10_27",
+        "audio_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215285-00_10_24-00_10_27",
+        "motion_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215285-00_10_24-00_10_27",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 90
+    },
+    {
+        "video_id": "215384-00_08_49-00_08_55",
+        "video_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215384-00_08_49-00_08_55",
+        "audio_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215384-00_08_49-00_08_55",
+        "motion_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215384-00_08_49-00_08_55",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 180
+    },
+    {
+        "video_id": "215623-00_11_00-00_11_10",
+        "video_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215623-00_11_00-00_11_10",
+        "audio_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215623-00_11_00-00_11_10",
+        "motion_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215623-00_11_00-00_11_10",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "216305-00_05_59-00_06_02",
+        "video_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/216305-00_05_59-00_06_02",
+        "audio_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/216305-00_05_59-00_06_02",
+        "motion_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/216305-00_05_59-00_06_02",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 90
+    },
+    {
+        "video_id": "215287-00_10_27-00_10_36",
+        "video_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215287-00_10_27-00_10_36",
+        "audio_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215287-00_10_27-00_10_36",
+        "motion_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215287-00_10_27-00_10_36",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 270
+    },
+    {
+        "video_id": "215612-00_02_18-00_02_28",
+        "video_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215612-00_02_18-00_02_28",
+        "audio_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215612-00_02_18-00_02_28",
+        "motion_path": "/content/oliver/oliver/Civil_Forfeiture_-_Last_Week_Tonight_with_John_Oliver_HBO-3kEpZWGgJks.mkv/test/215612-00_02_18-00_02_28",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "video_id": "104776-00_03_23-00_03_33",
+        "video_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/104776-00_03_23-00_03_33",
+        "audio_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/104776-00_03_23-00_03_33",
+        "motion_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/104776-00_03_23-00_03_33",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "105158-00_16_02-00_16_12",
+        "video_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105158-00_16_02-00_16_12",
+        "audio_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105158-00_16_02-00_16_12",
+        "motion_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105158-00_16_02-00_16_12",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "105153-00_15_09-00_15_19",
+        "video_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105153-00_15_09-00_15_19",
+        "audio_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105153-00_15_09-00_15_19",
+        "motion_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105153-00_15_09-00_15_19",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "104551-00_12_39-00_12_42",
+        "video_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/104551-00_12_39-00_12_42",
+        "audio_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/104551-00_12_39-00_12_42",
+        "motion_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/104551-00_12_39-00_12_42",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 90
+    },
+    {
+        "video_id": "105896-00_05_36-00_05_40",
+        "video_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105896-00_05_36-00_05_40",
+        "audio_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105896-00_05_36-00_05_40",
+        "motion_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105896-00_05_36-00_05_40",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 120
+    },
+    {
+        "video_id": "105884-00_01_17-00_01_23",
+        "video_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105884-00_01_17-00_01_23",
+        "audio_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105884-00_01_17-00_01_23",
+        "motion_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/105884-00_01_17-00_01_23",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 180
+    },
+    {
+        "video_id": "101070-00_04_20-00_04_28",
+        "video_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/101070-00_04_20-00_04_28",
+        "audio_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/101070-00_04_20-00_04_28",
+        "motion_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/101070-00_04_20-00_04_28",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 240
+    },
+    {
+        "video_id": "101826-00_11_20-00_11_26",
+        "video_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/101826-00_11_20-00_11_26",
+        "audio_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/101826-00_11_20-00_11_26",
+        "motion_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/101826-00_11_20-00_11_26",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 180
+    },
+    {
+        "video_id": "104552-00_12_42-00_12_48",
+        "video_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/104552-00_12_42-00_12_48",
+        "audio_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/104552-00_12_42-00_12_48",
+        "motion_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/104552-00_12_42-00_12_48",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 180
+    },
+    {
+        "video_id": "101072-00_04_51-00_04_58",
+        "video_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/101072-00_04_51-00_04_58",
+        "audio_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/101072-00_04_51-00_04_58",
+        "motion_path": "/content/oliver/oliver/Standardized_Testing_-_Last_Week_Tonight_with_John_Oliver_HBO-J6lyURyVz7k.mkv/test/101072-00_04_51-00_04_58",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 210
+    }
+]

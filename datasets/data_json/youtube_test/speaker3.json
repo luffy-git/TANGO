@@ -1,0 +1,114 @@
+[
+    {
+        "video_id": "oAgMKap9Cv8_00-05-11.79_00-05-16.68",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 147
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-05-55.53_00-05-59.22",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 111
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-00-39.35_00-00-43.30",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 119
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-06-4.03_00-06-9.12",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 152
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-01-37.89_00-01-48.34",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-00-11.89_00-00-16.59",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 141
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-04-21.54_00-04-25.48",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 119
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-04-54.38_00-04-57.64",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 99
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-00-28.39_00-00-31.88",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 105
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-04-16.94_00-04-21.03",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 122
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-03-10.15_00-03-13.65",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 105
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-04-34.17_00-04-38.67",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 135
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-05-59.69_00-06-3.65",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 119
+    },
+    {
+        "video_id": "oAgMKap9Cv8_00-04-10.72_00-04-16.54",
+        "video_path": "./datasets/cached_data/speaker3/",
+        "motion_path": "./datasets/cached_data/speaker3/",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 175
+    }
+]

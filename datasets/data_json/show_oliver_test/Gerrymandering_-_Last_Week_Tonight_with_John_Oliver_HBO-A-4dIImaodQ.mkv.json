@@ -1,0 +1,83 @@
+[
+    {
+        "video_id": "215814-00_04_46-00_04_54",
+        "video_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215814-00_04_46-00_04_54",
+        "audio_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215814-00_04_46-00_04_54",
+        "motion_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215814-00_04_46-00_04_54",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 240
+    },
+    {
+        "video_id": "215140-00_09_37-00_09_46",
+        "video_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215140-00_09_37-00_09_46",
+        "audio_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215140-00_09_37-00_09_46",
+        "motion_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215140-00_09_37-00_09_46",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 270
+    },
+    {
+        "video_id": "215073-00_01_07-00_01_14",
+        "video_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215073-00_01_07-00_01_14",
+        "audio_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215073-00_01_07-00_01_14",
+        "motion_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215073-00_01_07-00_01_14",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 210
+    },
+    {
+        "video_id": "215814-00_04_16-00_04_26",
+        "video_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215814-00_04_16-00_04_26",
+        "audio_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215814-00_04_16-00_04_26",
+        "motion_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215814-00_04_16-00_04_26",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "215814-00_04_36-00_04_46",
+        "video_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215814-00_04_36-00_04_46",
+        "audio_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215814-00_04_36-00_04_46",
+        "motion_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215814-00_04_36-00_04_46",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "216761-00_01_39-00_01_49",
+        "video_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/216761-00_01_39-00_01_49",
+        "audio_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/216761-00_01_39-00_01_49",
+        "motion_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/216761-00_01_39-00_01_49",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "214823-00_10_18-00_10_28",
+        "video_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/214823-00_10_18-00_10_28",
+        "audio_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/214823-00_10_18-00_10_28",
+        "motion_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/214823-00_10_18-00_10_28",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "215138-00_08_56-00_09_06",
+        "video_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215138-00_08_56-00_09_06",
+        "audio_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215138-00_08_56-00_09_06",
+        "motion_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/215138-00_08_56-00_09_06",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 300
+    },
+    {
+        "video_id": "214822-00_14_43-00_14_47",
+        "video_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/214822-00_14_43-00_14_47",
+        "audio_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/214822-00_14_43-00_14_47",
+        "motion_path": "/content/oliver/oliver/Gerrymandering_-_Last_Week_Tonight_with_John_Oliver_HBO-A-4dIImaodQ.mkv/test/214822-00_14_43-00_14_47",
+        "mode": "test",
+        "start_idx": 0,
+        "end_idx": 120
+    }
+]
