@@ -3,7 +3,7 @@
 <h2>TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio-Motion Embedding and Diffusion Interpolation</h2>
 
 <a href='https://pantomatrix.github.io/TANGO/'><img src='https://img.shields.io/badge/Project-TANGO-blue' alt='Project'></a>
-<a href='https://youtu.be/xuhD_-tMH1w?si=Tr6jHAhOR1fxWIjb'><img src='https://img.shields.io/badge/YouTube-TANGO-rgb(255, 0, 0)' alt='Youtube'></a>
+<a href='https://www.youtube.com/watch?v=_DfsA11puBc'><img src='https://img.shields.io/badge/YouTube-TANGO-rgb(255, 0, 0)' alt='Youtube'></a>
 <a href='https://huggingface.co/spaces/H-Liu1997/TANGO'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
 <a href='https://arxiv.org/abs/2410.04221'><img src='https://img.shields.io/badge/Paper-ArXiv-yellow' alt='Project'></a>
 
@@ -100,6 +100,6 @@ python create_graph.py
 
 We thanks the open-source project [Wav2Lip](https://github.com/Rudrabha/Wav2Lip), [FiLM](https://github.com/caffeinism/FiLM-pytorch), [SMPLerX](https://github.com/caizhongang/SMPLer-X).
 
-Check out our previous works for Co-Speech 3D motion Generation <a href="https://github.com/PantoMatrix/PantoMatrix">DisCo, BEAT, EMAGE</a>.\
+Check out our previous works for Co-Speech 3D motion Generation <a href="https://github.com/PantoMatrix/PantoMatrix">DisCo, BEAT, EMAGE</a>.
 
 This project is only for research or education purposes, and not freely available for commercial use or redistribution. The srcipt is available only under the terms of the [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode) (CC BY-NC 4.0) license.
